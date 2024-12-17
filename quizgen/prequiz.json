@@ -1,0 +1,110 @@
+{
+  "theme": "harry_potter",
+  "background_image": "bg.png",
+  "background_music": "music.mp3",
+  "font": "font.ttf",
+  "intro_texts": [
+    "How Well Do You Know Harry Potter? Find Out!",
+    "Dive into the Wizarding World: The Ultimate Quiz Awaits!",
+    "Are You a Hogwarts Pro? Take the Challenge!",
+    "Unleash Your Inner Wizard with This Harry Potter Quiz!",
+    "Are You Ready to Test Your Potter Knowledge?",
+    "The Magical Quiz for True Potterheads!",
+    "Can You Conjure Up the Right Answers?",
+    "Step Into the Wizarding World: Quiz Time!",
+    "Think You Know Harry Potter? Let's Put It to the Test!",
+    "A True Wizard Wouldn't Back Down from This Quiz!",
+    "Challenge Your Knowledge of the Magical Realm!",
+    "How Many House Points Can You Earn in This Quiz?",
+    "It's Time to Prove Your Harry Potter Expertise!",
+    "Are You a Real Wizard? Test Your Knowledge!",
+    "Can You Pass the Ultimate Potter Quiz?",
+    "The Wizarding World Awaits: Ready for a Challenge?",
+    "Only True Fans Will Succeed in This Quiz!",
+    "Do You Have What It Takes to Ace This Potter Quiz?",
+    "Let`s Test Your Knowledge of the Wizarding World!",
+    "How Well Do You Know the Harry Potter Movies?",
+    "Get Ready for a Magical Trivia Adventure!",
+    "Only 1% of Fans Can Get 100% on This Quiz!",
+    "Take a Journey Through the Wizarding World with This Quiz!",
+    "Step Up to the Challenge: The Harry Potter Quiz is Here!",
+    "The Time Has Come to Test Your Wizarding Knowledge!",
+    "A Magical Adventure Awaits: Let's Start the Quiz!",
+    "Get Ready to Dive into the World of Magic!",
+    "How Much Do You Really Know About Harry Potter?",
+    "Put Your Potter Skills to the Test Today!",
+    "A Quiz for Wizards and Witches Alike!",
+    "Can You Survive the Ultimate Harry Potter Quiz?",
+    "Ready for a Spellbinding Quiz Experience?",
+    "Do You Have the Magic Touch? Let's Find Out!",
+    "It's Quiz Time: Are You Ready for the Wizarding World?",
+    "Think You Know Everything About Harry Potter? Prove It!",
+    "Take a Magical Journey with This Potter Quiz!",
+    "Can You Solve the Mysteries of the Wizarding World?",
+    "Step into the Shoes of a Potterhead and Take the Quiz!",
+    "A Magical Challenge Awaits: Test Your Knowledge!",
+    "Ready for a Magical Quiz? Let`s Begin!",
+    "A Challenge Fit for a True Wizard!",
+    "Step Up to the Plate: The Harry Potter Quiz is Here!",
+    "Are You Up for the Challenge? Let`s Find Out!",
+    "Think You Know the Wizarding World Inside Out?",
+    "A Challenge for the Ultimate Harry Potter Fan!",
+    "Are You Ready to Take on the Wizarding World?",
+    "Put Your Wizarding Knowledge to the Test!",
+    "Think You're a True Potterhead? Let's See!",
+    "Join the Fun: It's Harry Potter Quiz Time!",
+    "A Magical Quiz for the Biggest Potter Fans!",
+    "Do You Know the Ins and Outs of the Wizarding World?",
+    "Think You Can Handle This Harry Potter Challenge?",
+    "Are You a True Fan? Take the Ultimate Potter Quiz!"
+  ],
+  "outro_texts": [
+    "Thanks for watching! Subscribe for more!",
+    "Enjoyed this? Like and share with friends!",
+    "Join our magical community - subscribe now!",
+    "Love quizzes? Hit subscribe for more!",
+    "Don`t miss out! Subscribe for daily magic!",
+    "Share your score and subscribe for more!",
+    "Keep the magic alive! Like and subscribe!",
+    "Join the fun! Subscribe for more challenges!",
+    "Spread the magic - like and share!",
+    "Ready for more? Subscribe now!",
+    "You`re one of us! Don`t forget to subscribe!",
+    "Think you can do better? Share and subscribe!",
+    "Want more? Hit that subscribe button!",
+    "Let`s make magic! Like and subscribe!",
+    "Thanks for joining! Subscribe for the next quiz!",
+    "Enjoyed it? Like, share, and subscribe!",
+    "Join us for more! Subscribe now!",
+    "Keep your skills sharp - subscribe for more!",
+    "Want more fun? Hit subscribe!",
+    "Thanks for tuning in! Subscribe for more magic!",
+    "Don`t miss out! Like and subscribe!"
+  ],
+  "quizzes": [
+    {
+      "questions": [
+        {
+          "question": "What house at Hogwarts does Harry belong to?",
+          "answer": "Gryffindor"
+        },
+        {
+          "question": "What is the name of Harry Potter's owl?",
+          "answer": "Hedwig"
+        },
+        {
+          "question": "Who is the Half-Blood Prince?",
+          "answer": "Severus Snape"
+        },
+        {
+          "question": "What position does Harry play on his Quidditch team? So loooong question!!",
+          "answer": "Seeker Zeeker party kicker yea bitch! Got ya piece of shit hawk twuah"
+        },
+        {
+          "question": "What is Lord Voldemort`s real name?",
+          "answer": "Tom Riddle"
+        }
+      ]
+    }
+  ]
+}

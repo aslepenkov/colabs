@@ -24,6 +24,9 @@ A collection of useful Google Colab notebooks and PowerShell scripts for automat
 - [whisper.ipynb](https://colab.research.google.com/github/aslepenkov/colabs/blob/main/whisper.ipynb)  
   A simple interface to upload an audio file and automatically transcribe its contents using OpenAI’s Whisper model
 
+- [crossword-gen.ipynb](https://colab.research.google.com/github/aslepenkov/colabs/blob/main/crossword-gen.ipynb)  
+  A crossword puzzle generator with customizable layout and multiple output formats
+
 ### PowerShell Scripts
 
 - `downloadYoutube_3.ps1`  
